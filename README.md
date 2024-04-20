@@ -10,3 +10,4 @@ See https://docs.gl-inet.com/router/en/3/setup/gl-ar750s/first_time_setup/
 ![Image of asus router](https://www.asus.com/media/global/products/assWQeKLLsXNBIXl/P_setting_xxx_0_90_end_500.png)
 
 See https://github.com/Cardinal-Space-Mining/RouterSetup/blob/main/E11885_RT-AC66U-B1_Manual.pdf
+Set it up as a standard router.
