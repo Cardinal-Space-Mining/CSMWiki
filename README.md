@@ -11,3 +11,4 @@ See https://docs.gl-inet.com/router/en/3/setup/gl-ar750s/first_time_setup/
 
 See https://github.com/Cardinal-Space-Mining/RouterSetup/blob/main/E11885_RT-AC66U-B1_Manual.pdf
 Set it up as a standard router.
+Default password can be found on the bottom of the router.
