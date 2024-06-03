@@ -4,7 +4,7 @@
 	3. Try the talker-listener example to validate installation
 2. Install VSCode
 	1. I suggest installing the apt package and following the guide [here](https://code.visualstudio.com/docs/setup/linux)
-	2. Then install the C++, Python, and ROS packages in VSCode
+	2. Then install the C++ Extension Pack, Python, Pylance, and ROS packages in VSCode
 	3. Now you can launch a VSCode instance by running `code .` in a directory and it will open that directory as a workspace.
 3. Install Clang-tidy
 	1. `sudo apt install clang-tidy`
