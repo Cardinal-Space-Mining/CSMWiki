@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3890faac57e8f581",
+        "id": "c3ad87d8877d69f2",
         "type": "tabs",
         "children": [
           {
-            "id": "0deac722e59b33bb",
+            "id": "c536c2fa3c50604b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Localization/HTC Vive.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Localization/HTC Vive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Localization/HTC Vive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Localization/HTC Vive.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,15 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0deac722e59b33bb",
+  "active": "c536c2fa3c50604b",
   "lastOpenFiles": [
-    "Localization/Aruco.md",
-    "Pasted image 20240518162957.png",
-    "Localization/RF UWB.md",
-    "Localization/HTC Vive.md",
-    "Localization/DLIO & DLO.md",
+    "EnviromentSetup/Git Setup.md",
+    "EnviromentSetup/Setting Up Ubuntu Linux.md",
     "Communications/Routers/README.md",
     "Communications/Routers/E11885_RT-AC66U-B1_Manual.pdf",
+    "EnviromentSetup/Installing Ubuntu Linux.md",
+    "Pasted image 20240601222320.png",
+    "Pasted image 20240601222222.png",
+    "Pasted image 20240601221842.png",
+    "Pasted image 20240601222215.png",
+    "Pasted image 20240518162957.png",
+    "Localization/Aruco.md",
+    "Localization/HTC Vive.md",
+    "EnviromentSetup",
+    "Localization/RF UWB.md",
+    "Localization/DLIO & DLO.md",
     "Communications/Routers",
     "Localization"
   ]
