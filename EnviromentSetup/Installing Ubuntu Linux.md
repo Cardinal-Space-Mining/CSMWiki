@@ -8,7 +8,7 @@ For virtualization options, WSL is recommended for windows machines, and VMBox i
 
 Note, regardless of which option you choose, 50GB+ is the recommended amount of drive space to allocate to an Ubuntu instance for CSM purposes. I personally allocated 100GB, though you can get away with less.
 
-## Dual Boot:
+## Dual Boot (For Mission Ctrl Machines):
 1. [Here](https://gcore.com/learning/dual-boot-ubuntu-windows-setup/) is a great tutorial on the subject
 2. Get a copy of a Ubuntu Jellyfish ISO, found [here](https://releases.ubuntu.com/jammy/)
 3. Install a copy of Rufus found [here](https://rufus.ie/en/)
@@ -17,7 +17,7 @@ Note, regardless of which option you choose, 50GB+ is the recommended amount of 
 6. Select the Ubuntu install USB you made
 7. Install Ubuntu
 ## Windows Subsystem For Linux
-1. From an elevated command prompt, run `wsl --install` 
+1. From an elevated command prompt, run `wsl --install Ubuntu` 
 2. Ubuntu should be installed by default
 
 ## VMBox (For non windows machines or advanced needs)

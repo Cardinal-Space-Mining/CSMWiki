@@ -1,5 +1,6 @@
 1. Obtain a github account from [here](https://www.github.com)
 2. Ask CSM Controls Lead to add you to the github organization found [here](https://github.com/Cardinal-Space-Mining)
+	1. Note for future Admins: the CSM github admin account (`csmc-isu`) is linked to the admin club Gmail account, the 2FA login info and recovery codes can be found in the admin Teams channel. The password can be found in the admin password docs. 
 3. Generate a personal access token
 	1. Setting found under:
 		1. Settings

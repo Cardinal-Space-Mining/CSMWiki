@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c3ad87d8877d69f2",
+        "id": "8a3e94d35d2f094d",
         "type": "tabs",
         "children": [
           {
-            "id": "c536c2fa3c50604b",
+            "id": "19a400966ed86963",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Standards/Standards.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Standards/Standards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Standards/Standards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Standards/Standards.md"
+              }
             }
           }
         ]
@@ -138,23 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c536c2fa3c50604b",
+  "active": "19a400966ed86963",
   "lastOpenFiles": [
+    "EnviromentSetup/EnviromentValidation.md",
     "EnviromentSetup/Git Setup.md",
+    "EnviromentSetup/Installing Ubuntu Linux.md",
     "EnviromentSetup/Setting Up Ubuntu Linux.md",
+    "EnviromentSetup/VSCode Setup.md",
+    "EnviromentSetup/Windows Setup.md",
+    "Pasted image 20240616230910.png",
+    "Pasted image 20240616230742.png",
+    "Standards/Standards.md",
+    "Pasted image 20240616214309.png",
+    "p5pky2mvhgte1scjvhxr.png",
+    "Pasted image 20240601222320.png",
+    "Pasted image 20240518162957.png",
+    "uzdlux4cnlf3t6oj4tse.png",
+    "Untitled.canvas",
+    "Standards",
     "Communications/Routers/README.md",
     "Communications/Routers/E11885_RT-AC66U-B1_Manual.pdf",
-    "EnviromentSetup/Installing Ubuntu Linux.md",
-    "Pasted image 20240601222320.png",
+    "Localization/Aruco.md",
+    "Localization/DLIO & DLO.md",
+    "Localization/HTC Vive.md",
+    "Localization/RF UWB.md",
     "Pasted image 20240601222222.png",
     "Pasted image 20240601221842.png",
     "Pasted image 20240601222215.png",
-    "Pasted image 20240518162957.png",
-    "Localization/Aruco.md",
-    "Localization/HTC Vive.md",
     "EnviromentSetup",
-    "Localization/RF UWB.md",
-    "Localization/DLIO & DLO.md",
     "Communications/Routers",
     "Localization"
   ]
