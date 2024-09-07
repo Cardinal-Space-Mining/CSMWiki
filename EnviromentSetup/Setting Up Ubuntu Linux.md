@@ -1,4 +1,4 @@
-1. Install Ros2 Humble, found [here](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html)
+1. Install Ros2 Jazzy, found [here](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
 	1. Follow the Debian/apt package option as building from source is a pain.
 	2. Install `ros-humble-desktop`
 	3. Try the talker-listener example to validate installation
