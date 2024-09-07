@@ -10,7 +10,7 @@ Note, regardless of which option you choose, 50GB+ is the recommended amount of 
 
 ## Dual Boot (For Mission Ctrl Machines):
 1. [Here](https://gcore.com/learning/dual-boot-ubuntu-windows-setup/) is a great tutorial on the subject
-2. Get a copy of a Ubuntu Jellyfish ISO, found [here](https://releases.ubuntu.com/noble/)
+2. Get a copy of a Ubuntu Noble ISO, found [here](https://releases.ubuntu.com/noble/)
 3. Install a copy of Rufus found [here](https://rufus.ie/en/)
 4. Click restart in windows and hold shift while it restarts to boot into recovery mode
 5. Click Use a device
