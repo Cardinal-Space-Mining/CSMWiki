@@ -7,7 +7,7 @@
 4. In a terminal inside VSCode, run these commmands to install packages needed by PurposefulyPrivateRepoForGitSetup:
     1. `sudo rosdep init` (If never used rosdep on that computer before)
     2. `rosdep update`
-    3. `rosdep install -i --from-path ./src --rosdistro humble -y`
+    3. `rosdep install -i --from-path ./src --rosdistro jazzy -y`
     4. `pip3 install -r ./requirements.txt`
 5. Build the repo:
     1. `colcon build --executor parallel --cmake-args=-DCMAKE_EXPORT_COMPILE_COMMANDS:BOOL=ON`
