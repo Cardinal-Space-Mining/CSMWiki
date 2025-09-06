@@ -1,6 +1,6 @@
 1. Install Ros2 Jazzy, found [here](https://docs.ros.org/en/jazzy/Installation/Ubuntu-Install-Debs.html)
 	1. Follow the Debian/apt package option as building from source is a pain.
-	2. Install `ros-humble-desktop`
+	2. Install `ros-jazzy-desktop`
 	3. Try the talker-listener example to validate installation
 2. Install VSCode
 	1. I suggest installing the apt package and following the guide [here](https://code.visualstudio.com/docs/setup/linux)
