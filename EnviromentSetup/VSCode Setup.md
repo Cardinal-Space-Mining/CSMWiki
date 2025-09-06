@@ -3,7 +3,6 @@ Suggested Extensions:
 * `CMake Tools` : Microsoft
 * `C/C++ Extension Pack` : Microsoft
 * `Makefile Tools` : Microsoft
-* `ROS` : Microsoft
 * `Python` : Microsoft
 * `Python Debugger` : Microsoft
 * `Pylance` : Microsoft
