@@ -19,7 +19,7 @@
     3. In advanced settings, under compile commands, set the field to `${workspaceFolder}/build/compile_commands.json`
 7. Test the compiled Binaries
     1. In a new VSCode terminal, run:
-        1. `source /opt/ros/humble/setup.bash`
+        1. `source /opt/ros/jazzy/setup.bash`
         2. `source ./install/setup.bash`
         3. `ros2 launch king_engine lance.launch.py`
     2. Most things will probably complain, as I doubt you have a 3D Lidar attached to your laptop, but assuming you get a bunch of output to stdout and no large errors running the above commands, your enviroment is setup correctly. Congrats!
